@@ -1,2 +1,4 @@
 # papers
-Research - formal and informal
+Research papers
+
+### Table of Contents
